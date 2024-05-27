@@ -23,20 +23,23 @@
          <li class="first">Cloud Based solution</li>
           <li class="sec" style="border-bottom: 1px solid black;">Automated LinkedIn Outreach</li>
            <p>Ideal for Startups & Personal Brands</p>
-           <li>Smart sequence outreach campaigns</li>
- 	   <li>Multi-channel experience</li>
-  	  <li>Connect your unique email provider</li>
- 	  <li>Lead Duplication Security</li>
-	  <li>Advanced Reporting</li>
-	  <li>Hyper Personalization with graphics and GIFs</li>
-	  <li>Basic Level Support</li>
- 	  <li>Dynamic Placeholders</li>
-	  <li>Automation Scheduler</li>
-	  <li>Dedicated IP for each account</li>
-	  <li>Smart Limits</li>
-	  <li>Cloud Based solution</li>
-	  <li>Auto Warm up feature</li>
-	  <li>Auto Withdrawal of pending invites</li>
+           <li>Intelligent Conversation Sequencing</li>
+ 	   <li>Omni-Channel Interaction</li>
+  	  <li>Integrate with Your Preferred Communication Platforms</li>
+ 	  <li>Lead Duplication Prevention</li>
+	  <li>Comprehensive Analytics</li>
+	  <li>Hyper-Personalized Responses with Dynamic Media</li>
+	  <li>Premium Support</li>
+ 	  <li>Adaptive Response Placeholders</li>
+	  <li>Automated Conversation Scheduling</li>
+	  <li>Dedicated Communication Line for Each User</li>
+	  <li>Adaptive Interaction Limits</li>
+	  <li>Automatic Warm-Up for New Leads</li>
+	  <li>Automated Follow-Up Withdrawal</li>
+	  <li>AI-Powered Appointment Scheduling</li>
+	  <li>Automated Content and Message Scheduler</li>
+	  <li>SMS Follow-Up Automation</li>
+	  <li>SDR Capabilities for Sales Enhancement</li>
         </ul>
         
       </div>
@@ -50,21 +53,23 @@
        <li class="first">5,000 chats</li>
           <li class="sec" style="border-bottom: 1px solid black;">Unlimited users</li>
            <p>Optimize Lead Gen Success for B2B Marketers</p>
-           <li>Smart sequence outreach campaigns</li>
- 	   <li>Multi-channel experience</li>
-  	  <li>Connect your unique email provider</li>
- 	  <li>Lead Duplication Security</li>
-	  <li>Advanced Reporting</li>
-	  <li>Hyper Personalization with graphics and GIFs</li>
-	  <li>Elite Level Support</li>
- 	  <li>Dynamic Placeholders</li>
-	  <li>Automation Scheduler</li>
-	  <li>Dedicated IP for each account</li>
-	  <li>Smart Limits</li>
-	  <li>Automated LinkedIn Outreach</li>
-	  <li>Cloud Based solution</li>
-	  <li>Auto Warm up feature</li>
-	  <li>Auto Withdrawal of pending invites</li>
+           <li>Intelligent Conversation Sequencing</li>
+ 	   <li>Omni-Channel Interaction</li>
+  	  <li>Integrate with Your Preferred Communication Platforms</li>
+ 	  <li>Lead Duplication Prevention</li>
+	  <li>Comprehensive Analytics</li>
+	  <li>Hyper-Personalized Responses with Dynamic Media</li>
+	  <li>Premium Support</li>
+ 	  <li>Adaptive Response Placeholders</li>
+	  <li>Automated Conversation Scheduling</li>
+	  <li>Dedicated Communication Line for Each User</li>
+	  <li>Adaptive Interaction Limits</li>
+	  <li>Automatic Warm-Up for New Leads</li>
+	  <li>Automated Follow-Up Withdrawal</li>
+	  <li>AI-Powered Appointment Scheduling</li>
+	  <li>Automated Content and Message Scheduler</li>
+	  <li>SMS Follow-Up Automation</li>
+	  <li>SDR Capabilities for Sales Enhancement</li>
         </ul>
         
       </div>
@@ -76,21 +81,23 @@
         <li class="first">10,000 chats</li>
           <li class="sec" style="border-bottom: 1px solid black;">Unlimited users</li>
            <p>Unlock New Revenue Streams for Agencies.</p>
-           <li>Smart sequence outreach campaigns</li>
- 	   <li>Multi-channel experience</li>
-  	  <li>Connect your unique email provider</li>
- 	  <li>Lead Duplication Security</li>
-	  <li>Advanced Reporting</li>
-	  <li>Hyper Personalization with graphics and GIFs</li>
-	  <li>Elite Level Support</li>
- 	  <li>Dynamic Placeholders</li>
-	  <li>Automation Scheduler</li>
-	  <li>Dedicated IP for each account</li>
-	  <li>Smart Limits</li>
-	  <li>Automated LinkedIn Outreach</li>
-	  <li>Cloud Based solution</li>
-	  <li>Auto Warm up feature</li>
-	  <li>Auto Withdrawal of pending invites</li>
+           <li>Intelligent Conversation Sequencing</li>
+ 	   <li>Omni-Channel Interaction</li>
+  	  <li>Integrate with Your Preferred Communication Platforms</li>
+ 	  <li>Lead Duplication Prevention</li>
+	  <li>Comprehensive Analytics</li>
+	  <li>Hyper-Personalized Responses with Dynamic Media</li>
+	  <li>Premium Support</li>
+ 	  <li>Adaptive Response Placeholders</li>
+	  <li>Automated Conversation Scheduling</li>
+	  <li>Dedicated Communication Line for Each User</li>
+	  <li>Adaptive Interaction Limits</li>
+	  <li>Automatic Warm-Up for New Leads</li>
+	  <li>Automated Follow-Up Withdrawal</li>
+	  <li>AI-Powered Appointment Scheduling</li>
+	  <li>Automated Content and Message Scheduler</li>
+	  <li>SMS Follow-Up Automation</li>
+	  <li>SDR Capabilities for Sales Enhancement</li>
         </ul>
        
       </div>
